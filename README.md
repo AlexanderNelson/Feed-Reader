@@ -33,7 +33,7 @@ Use this project to practive writing tests that will assist in implementing func
 
 
 
-Udacity provided info
+Udacity
 -------
 
 # Project Overview
