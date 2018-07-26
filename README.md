@@ -14,9 +14,7 @@ Table of Contents
 
   * [Requirements](#requirements)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Support](#support)
-  * [License](#license)
+  * [Udacity provided info](#udacity)
 
 
 Requirements
@@ -35,7 +33,8 @@ Use this project to practive writing tests that will assist in implementing func
 
 
 
-Udacity Info on this project
+Udacity provided info
+-------
 
 # Project Overview
 
